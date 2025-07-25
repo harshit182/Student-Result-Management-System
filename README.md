@@ -21,7 +21,7 @@ To run this application locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/AyushiTiwari2802/Student-Result-Management-System.git
+   git clone https://github.com/harshit182/Student-Result-Management-System.git
    cd Student-Result-Management-System
    
 2. **Install Dependencies:**
